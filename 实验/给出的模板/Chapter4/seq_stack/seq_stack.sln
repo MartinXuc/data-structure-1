@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "seq_stack", "seq_stack\seq_stack.vcxproj", "{B9440B17-4616-4D72-B8A2-0722AE4CBA53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9440B17-4616-4D72-B8A2-0722AE4CBA53}.Debug|x64.ActiveCfg = Debug|x64
+		{B9440B17-4616-4D72-B8A2-0722AE4CBA53}.Debug|x64.Build.0 = Debug|x64
+		{B9440B17-4616-4D72-B8A2-0722AE4CBA53}.Debug|x86.ActiveCfg = Debug|Win32
+		{B9440B17-4616-4D72-B8A2-0722AE4CBA53}.Debug|x86.Build.0 = Debug|Win32
+		{B9440B17-4616-4D72-B8A2-0722AE4CBA53}.Release|x64.ActiveCfg = Release|x64
+		{B9440B17-4616-4D72-B8A2-0722AE4CBA53}.Release|x64.Build.0 = Release|x64
+		{B9440B17-4616-4D72-B8A2-0722AE4CBA53}.Release|x86.ActiveCfg = Release|Win32
+		{B9440B17-4616-4D72-B8A2-0722AE4CBA53}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D8287C9-46C2-40EF-8F38-8F09723D5E98}
+	EndGlobalSection
+EndGlobal
